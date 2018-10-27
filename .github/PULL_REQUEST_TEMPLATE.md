@@ -4,4 +4,4 @@ IMPORTANT NOTES (please read and then delete):
 
 * Please make sure to mention "#bugnum" somewhere in the description of the PR. This enables Github to link the PR to the corresponding bug.
 
-Please also make sure to follow the [contribution](https://github.com/Cloud-CV/Fabrik/blob/master/.github/CONTRIBUTING.md) guidelines.
+Please also make sure to follow the [contribution](https://github.com/Cloud-CV/Fabrik/blob/master/.github/CONTRIBUTING.md) guidelines mentioned.
