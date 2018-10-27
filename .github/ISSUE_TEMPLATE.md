@@ -9,6 +9,6 @@ If you'd like to report a bug, please include the following information:
 
 On the other hand, if you'd like to propose a new feature:
 - please describe, as clearly as possible, what you'd like to see
-- (if possible) include mockups/screenshots, if these would help convey the meaning better
+- (if possible) include mockups or screenshots, as these would help in conveying the meaning better
 
 Thanks!
